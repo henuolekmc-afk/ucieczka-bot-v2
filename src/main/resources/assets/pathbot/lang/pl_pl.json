@@ -1,0 +1,6 @@
+{
+  "category.pathbot": "PathBot",
+  "key.pathbot.record": "Start/stop recording route",
+  "key.pathbot.play": "Start/stop bot",
+  "key.pathbot.show": "Show/hide route particles"
+}
